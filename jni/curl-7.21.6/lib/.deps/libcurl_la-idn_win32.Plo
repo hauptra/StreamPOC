@@ -1,0 +1,1 @@
+libcurl_la-idn_win32.lo libcurl_la-idn_win32.o: idn_win32.c

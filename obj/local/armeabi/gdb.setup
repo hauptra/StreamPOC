@@ -1,0 +1,4 @@
+set solib-search-path /Users/rohaupt/Documents/workspace/RRD2/obj/local/armeabi
+directory /Applications/android-ndk-r5b/platforms/android-4/arch-arm/usr/include /Users/rohaupt/Documents/workspace/RRD2/jni/bffmpeg /Users/rohaupt/Documents/workspace/RRD2/jni/bffmpeg/include /Users/rohaupt/Documents/workspace/RRD2/jni/glue /Applications/android-ndk-r5b/sources/cxx-stl/system
+file /Users/rohaupt/Documents/workspace/RRD2/obj/local/armeabi/app_process
+target remote :5039
